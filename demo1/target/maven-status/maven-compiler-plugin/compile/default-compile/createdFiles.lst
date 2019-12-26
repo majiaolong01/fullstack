@@ -1,0 +1,12 @@
+com\lanxin\service\ProductServiceImpl.class
+com\lanxin\bean\UserExample$Criterion.class
+com\lanxin\controller\ProductController.class
+com\lanxin\bean\UserExample.class
+com\lanxin\bean\User.class
+com\lanxin\service\ProductService.class
+com\lanxin\dao\ProductMapper.class
+com\lanxin\bean\UserExample$Criteria.class
+com\lanxin\dao\UserMapper.class
+com\lanxin\bean\UserExample$GeneratedCriteria.class
+com\lanxin\controller\UserController.class
+com\lanxin\bean\Product.class
